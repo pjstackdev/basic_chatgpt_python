@@ -5,4 +5,4 @@ This code is a Python script that expains simple work with the OpenAI GPT-3.5 la
 
 In the second part (LEVEL2), the code expands upon the interaction by defining a more complex get_response_complex function that allows for multi-message conversations. It can take a list of messages, including user and system roles, and interact with the model in a chat-like manner. In this example, it sets up a conversation where the user role asks for business advice about startup advertising in the style of Paul Graham. It then prints the model's response and token statistics (such as prompt tokens, completion tokens, and total tokens) obtained from the OpenAI API response.
 
-Here is an article that explains things ina bit more detail here: https://pjstackdev.substack.com/p/getting-started-quickly-with-gpt
+Here is an article that explains things in a bit more detail here: https://pjstackdev.substack.com/p/getting-started-quickly-with-gpt
